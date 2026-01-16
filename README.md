@@ -26,12 +26,6 @@ This package is a re-published, re-organised and maintained version of [pingpong
 
 With one big bonus that the original package didn't have: **tests**.
 
-## Sponsors
-
-For those who are interested in becoming a sponsor, please visit Laravel Modules Sponsor page at **[laravelmodules.com/become-a-sponsor](https://laravelmodules.com/become-a-sponsor)**.
-
-See the website traffic at https://app.usefathom.com/share/sdinlflk/laravel+modules
-
 ### Sponsors
 
 <a href="https://nativephp.com/mobile"><img src="https://laravelmodules.com/images/sponsors/NativePHP-mobile-light.svg" alt="NativePHP for Mobile" title="NativePHP for Mobile" width="200"/></a>
@@ -79,12 +73,6 @@ By default, the module classes are not loaded automatically. You can autoload yo
 ## Documentation
 
 You'll find installation instructions and full documentation on [https://laravelmodules.com/](https://laravelmodules.com/docs).
-
-## Demo
-
-You can see a demo using Laravel Breeze at https://github.com/laravel-modules-com/breeze-demo
-
-This is a complete application using Auth, Base and Profile modules.
 
 ## Community
 
